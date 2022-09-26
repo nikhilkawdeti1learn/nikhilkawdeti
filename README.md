@@ -1,4 +1,4 @@
- 👋 Hi, I’m # @nikhilkawdeti
+ 👋 Hi, I’m @nikhilkawdeti
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 
